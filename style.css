@@ -1,0 +1,59 @@
+* {
+    box-sizing: border-box;
+}
+.para {
+    color: white;
+}
+
+#name {
+    color: white;
+}
+
+a {
+    color: red;
+}
+
+table {
+    color: rgba(16, 43, 161, 0.6);
+}
+
+
+div {
+    /* background-color: black; */
+    height: 100px;
+}
+
+body {
+    /* box-sizing: border-box; */
+    margin: 0px;
+}
+
+.red {
+    background-color: #FF6600;
+    margin: 0px;
+    text-align: center;
+    padding: 40px;
+    font-size: 20px;
+
+}
+
+.blue {
+    background-color: #2D199E;
+    width: 49%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.yellow {
+    background-color: green;
+    width: 50%; 
+    display: inline-block;
+}
+
+#container {
+    background-color: pink;
+    /* display: inline-block; */
+    width: 100%;
+    text-align: center;
+    /* margin-left: 1px; */
+}
